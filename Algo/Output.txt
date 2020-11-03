@@ -1,0 +1,312 @@
+
+
+Pos : [1, 1, 1]
+The sensor values are: 32.02 34.75 35.00 5.99 4.94 50.44 
+The current map is: 
+
+  S|  S|  S|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [2, 1, 1]
+The sensor values are: 27.42 27.38 25.69 5.87 5.49 47.11 
+The current map is: 
+
+  S|  S|  S|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [3, 1, 1]
+The sensor values are: 17.32 18.19 17.61 5.76 5.68 46.84 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [4, 1, 1]
+The sensor values are: 9.30 7.44 8.00 5.73 6.11 47.11 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [4, 1, 2]
+The sensor values are: 32.02 35.00 35.00 6.89 7.20 29.07 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [4, 2, 2]
+The sensor values are: 32.02 33.11 35.00 6.89 49.18 27.84 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [4, 3, 2]
+The sensor values are: 30.72 30.06 27.18 43.96 37.28 27.24 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [4, 3, 1]
+The sensor values are: 30.41 32.24 35.00 15.25 8.27 44.03 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [5, 3, 1]
+The sensor values are: 18.54 22.66 27.98 10.70 49.18 68.96 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [6, 3, 1]
+The sensor values are: 10.15 13.35 17.99 18.27 76.87 75.47 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  X|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [6, 3, 2]
+The sensor values are: 20.86 35.00 35.00 5.06 76.87 75.47 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  X|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [6, 4, 2]
+The sensor values are: 34.99 35.00 35.00 32.47 76.87 75.47 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+   |   |   |   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  X|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
+
+
+Pos : [6, 5, 2]
+The sensor values are: 34.99 35.00 30.65 7.23 76.87 75.47 
+The current map is: 
+
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  S|  S|  S|   |   |   |   |   |   |  X|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  X|   |   |   |   |   |   |   |  X|   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+   |   |   |   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+   |   |   |   |   |   |   |   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  X|  X|  X|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|   |   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|   |   |  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  O|  E|  E|  E|
+
+
+
