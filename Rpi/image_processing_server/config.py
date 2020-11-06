@@ -1,5 +1,5 @@
 #MODEL_NAME = 'model'
-MODEL_FILENAME = 'model/model_20ct.pb'
+MODEL_FILENAME = 'model/model.pb'
 LABELS_FILENAME = 'model/labels.txt'
 CATEGORY_FILENAME = 'model/labelmap.pbtxt'
 

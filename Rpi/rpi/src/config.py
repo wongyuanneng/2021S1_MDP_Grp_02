@@ -23,7 +23,7 @@ BAUD_RATE = 115200
 
 # Image Recognition Settings
 STOPPING_IMAGE = 'stop_image_processing.png'
-TARGET_IMG_COUNT = 4
+TARGET_IMG_COUNT = 5
 
 IMAGE_WIDTH = 1920
 IMAGE_HEIGHT = 1080
